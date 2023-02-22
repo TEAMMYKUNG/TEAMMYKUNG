@@ -5,7 +5,6 @@ Electrical Engineer Student
 ---------------------------
 
 * 🌍  I'm based in Thailand
-* 🖥️  See my portfolio at [Github.io](http://teammykung.github.io/portfolio/)
 * ✉️  You can contact me at [natthaphong.team@gmail.com](mailto:natthaphong.team@gmail.com)
 
 ### Skills
