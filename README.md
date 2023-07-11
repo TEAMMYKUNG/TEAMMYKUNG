@@ -24,6 +24,7 @@ Electrical Engineer Student
 <p align="left"> <a href="https://www.github.com/TEAMMYKUNG" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/natthaphongsiri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="03eb8154-2bbf-454d-9328-ed0a3469fe21" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <b>My GitHub Stats</b>
 
